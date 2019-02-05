@@ -1,0 +1,6 @@
+[submodule "grundgesetz-web"]
+	path = grundgesetz-web
+	url = https://github.com/c3e/grundgesetz-web
+[submodule "docpatch"]
+	path = docpatch
+	url = https://github.com/c3e/docpatch
